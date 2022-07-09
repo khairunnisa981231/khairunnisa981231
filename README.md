@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khairunnisa981231
-- 👀 I’m interested in java and php.
-- 🌱 I’m currently learning javascript and app development
+
 
 
 <!---
